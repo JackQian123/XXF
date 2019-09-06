@@ -1,5 +1,5 @@
 #-*- coding: UTF-8 -*- 
-__author__ = '钱智康'
+__author__ = 'qzk'
 import requests
 import sys
 import json
